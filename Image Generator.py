@@ -4,7 +4,7 @@ from PIL import Image, ImageTk
 import io
 
 # DeepAI API key (replace 'YOUR_API_KEY' with your actual API key)
-API_KEY = '34d1b193-23c5-439f-b23e-ea72e2de5a5f'
+API_KEY = ''
 
 # Function to generate an image using DeepAI API
 def generate_image():
