@@ -2,7 +2,7 @@ import openai
 import os
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = ''
 
 # Define the prompt to generate code for a Python project
 prompt = """
